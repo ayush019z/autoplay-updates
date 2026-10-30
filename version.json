@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.33",
+  "versionCode": 41,
+  "versionName": "1.40",
   "downloadUrl": "https://github.com/ayush019z/autoplay-updates/releases/latest/download/Autoplay.apk",
-  "releaseNotes": "Autoplay update"
+  "releaseNotes": "Improved batter picker row targeting and selection handling."
 }
