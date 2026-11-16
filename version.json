@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.43",
+  "versionCode": 45,
+  "versionName": "1.44",
   "downloadUrl": "https://github.com/ayush019z/autoplay-updates/releases/latest/download/Autoplay.apk",
-  "releaseNotes": "Redesigned modern update checker with native in-app status card, custom update dialog, and instant manual check via version badge."
+  "releaseNotes": "Added auto-select Bowling Order with customizable priority list and top-rated bowler fallback; skips Impact Player automatically."
 }
