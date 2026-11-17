@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.44",
+  "versionCode": 46,
+  "versionName": "1.45",
   "downloadUrl": "https://github.com/ayush019z/autoplay-updates/releases/latest/download/Autoplay.apk",
-  "releaseNotes": "Added auto-select Bowling Order with customizable priority list and top-rated bowler fallback; skips Impact Player automatically."
+  "releaseNotes": "Strict anti-spam protection: maximum 2 of the same delivery per over (1 for Mystery) and maximum 2 consecutive deliveries in a row, even with custom Bowling Plans."
 }
