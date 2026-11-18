@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.45",
+  "versionCode": 47,
+  "versionName": "1.46",
   "downloadUrl": "https://github.com/ayush019z/autoplay-updates/releases/latest/download/Autoplay.apk",
-  "releaseNotes": "Strict anti-spam protection: maximum 2 of the same delivery per over (1 for Mystery) and maximum 2 consecutive deliveries in a row, even with custom Bowling Plans."
+  "releaseNotes": "Fix auto-select next bowler prompt detection, parent climbing, option matching without requiring BWL/BOWL labels, and automatic top bowler fallback."
 }
